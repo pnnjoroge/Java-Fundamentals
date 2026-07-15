@@ -1,0 +1,5 @@
+Your text file should contain uppercase letters, lowercase letters, numbers, and punctuation!
+For this assignment: 
+1. You can assume that there are no blank lines in the text file.
+2. Convert the contents of the text file to all uppercase;
+3. Display the output to the console instead of an output file.
