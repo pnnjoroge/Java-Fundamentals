@@ -1,0 +1,25 @@
+Dealer: 18 | First Player: 15 | Second Player: 22
+Round 1 ~ Dealer: 20 | First Player: 20 | Second Player: 17
+Round 2 ~ Dealer: 20 | First Player: 15 | Second Player: 18
+Round 1 ~ Dealer: 19 | First Player: 18 | Second Player: 16
+Round 2 ~ Dealer: 20 | First Player: 20 | Second Player: 21
+Round 1 ~ Dealer: 19 | First Player: 23 | Second Player: 18
+Round 2 ~ Dealer: 12 | First Player: 21 | Second Player: 0
+Round 1 ~ Dealer: 6 | First Player: 21 | Second Player: 0
+Round 1 ~ Dealer: 17 | First Player: 20 | Second Player: 16
+Round 1 ~ Dealer: 25 | First Player: 15 | Second Player: 22
+Round 1 ~ Dealer: 19 | First Player: 21 | Second Player: 21
+Round 2 ~ Dealer: 21 | First Player: 15 | Second Player: 17
+Round 3 ~ Dealer: 19 | First Player: 24 | Second Player: 19
+Round 1 ~ Dealer: 25 | First Player: 20 | Second Player: 17
+Round 1 ~ Dealer: 20 | First Player: 20 | Second Player: 19
+
+Round 1 ~ Dealer: 22 | First Player: 15 | Second Player: 20
+
+Round 1 ~ Dealer: 17 | First Player: 23 | Second Player: 19
+ 
+Round 1 ~ Dealer: 18 | First Player: 21 | Second Player: 0
+Round 2 ~ Dealer: 18 | First Player: 15 | Second Player: 19
+Round 1 ~ Dealer: 20 | First Player: 18 | Second Player: 19
+Round 1 ~ Dealer: 18 | First Player: 20 | Second Player: 15
+Round 1 ~ Dealer: 24 | First Player: 15 | Second Player: 16
